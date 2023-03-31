@@ -1,0 +1,8 @@
+1.สร้าง project ด้วย  vite-react
+-npm create vite@latest
+2.ติดตั้ง dependencies เพิ่ม  react-router-dom
+-npm react-router-dom@6.9.0
+3.สร้าง route ที่ App.jsx เปลี่ยนเป็น App.js
+-
+4.สร้าง components>Login.jsx
+-โดยใช้  MUI Template
